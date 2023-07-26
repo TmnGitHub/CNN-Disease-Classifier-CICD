@@ -21,7 +21,9 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "Notebook/test.ipynb"
+    "Notebook/test.ipynb",
+    "HTML/home.html"
+
 ]
 
 
