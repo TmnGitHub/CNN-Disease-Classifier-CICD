@@ -4,7 +4,7 @@ from setuptools import find_packages,setup
 __version__ = '0.0.1'
 REPO_NAME = 'CNN-Disease-Classifier-CICD'
 AUTHOR_USER_NAME = 'TmnGitHub'
-SRC_REPO = "CNN-Disease-Classifier-CICD"
+SRC_REPO = "CNNClassifier" 
 AUTHOR_EMAIL = 'tamanupadhaya@gmail.com'
 DESCRIPTION = 'Tensorflow based CNN classification application'
 
